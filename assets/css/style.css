@@ -126,8 +126,9 @@ nav ul a:hover { color: var(--magenta); }
   padding-right: calc((100% - 1100px) / 2 + 1.5rem);
   position: relative;
   background: url('../img/logos/fondo.JPG') repeat center center;
-  background-size: 380px;
+  background-size: 320px;
   background-color: var(--blanco);
+  overflow: hidden;
 }
 
 .hero::before {
