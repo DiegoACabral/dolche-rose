@@ -125,8 +125,7 @@ nav ul a:hover { color: var(--magenta); }
   padding-left: calc((100% - 1100px) / 2 + 1.5rem);
   padding-right: calc((100% - 1100px) / 2 + 1.5rem);
   position: relative;
-  background: url('../img/logos/fondo.JPG') round center;
-  background-size: 300px;
+  background: url('../img/logos/fondo.JPG') no-repeat center center / cover;
   background-color: var(--blanco);
   overflow: hidden;
 }
