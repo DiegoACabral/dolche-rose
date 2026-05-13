@@ -614,7 +614,7 @@ footer {
   .hero-btns { justify-content: center; }
   .hero-visual { order: -1; }
   .hero-badge { align-self: center; margin-left: 0; }
-  .hero-logo { width: 200px; }
+  .hero-logo { width: 200px; height: 200px; }
   .nosotros-grid { grid-template-columns: 1fr; gap: 2.5rem; }
 }
 
